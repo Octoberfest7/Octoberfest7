@@ -14,6 +14,7 @@ Offensive Tool Dev | Red Team | Penetration Testing | Malware Development | OSEP
 ## Blog Posts
 1. [GraphStrike: Anatomy of Offensive Tool Development](https://redsiege.com/blog/2024/01/graphstrike-developer/)
 2. [Dumping LSASS Like it's 2019](https://redsiege.com/blog/2024/03/dumping-lsass-like-its-2019/)
+3. [SSHishing – Abusing Shortcut Files and the Windows SSH Client for Initial Access](https://redsiege.com/sshishing)
 
 ## Socials
 **[Twitter](https://twitter.com/Octoberfest73)**  
