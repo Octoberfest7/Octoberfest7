@@ -5,8 +5,8 @@ Offensive Tool Dev | Red Team | Penetration Testing | Malware Development | OSEP
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Octoberfest7&langs_count=4&line_height=35&theme=transparent" />  
 </p>
 
-
-
+## Course Offerings
+1. [BOF Development and Tradecraft](https://training.zeropointsecurity.co.uk/courses/bof-dev-and-tradecraft)
 
 ## Other Work
 1. [GraphStrike](https://github.com/RedSiege/GraphStrike)
